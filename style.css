@@ -1,0 +1,11 @@
+font-family: 'Josefin Slab', serif;
+.top-text{
+    text-align: center;
+img{
+width:50%
+}
+.card-img-top{
+cursor:pointer;
+padding-top:40px;
+margin-bottom:20px;
+}
